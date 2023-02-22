@@ -10,18 +10,15 @@
 <h4 align="center">A components based Microservice architecture and Gateway + for backend developers who like frontend developers.</h4>
 
 <p align="center">
-    <a href="https://github.com/buildlyio/buildly-core">
-    <img src="https://github.com/buildlyio/buildly-core/commits/master/badge.svg"
-         alt="GitHub last commit">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
-    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/buildlyio/buildly-core/issues">
+    <img src="https://img.shields.io/github/issues-raw/buildlyio/buildly-core-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub issues">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/buildlyio/buildly-core/issues">
+    <img src="https://img.shields.io/github/issues-raw/buildlyio/buildly-core-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+         alt="GitHub issues">
+    <a href="https://github.com/buildlyio/buildly-core/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/buildlyio/buildly-core-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
-    <a href="https://twitter.com/intent/tweet?text=Try this CS:GO AutoExec:&url=https%3A%2F%2Fgithub.com%2FArmynC%2FArminC-AutoExec">
-    <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=twitter"
-         alt="GitHub tweet">
 </p>
       
 <p align="center">
