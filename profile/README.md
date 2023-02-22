@@ -1,5 +1,5 @@
 ## Hi there 👋
-file: ![ background]([background.png](https://github.com/buildlyio/.github/blob/main/Buildly%20Banner%20Trees.png?raw=true))
+![background]([https://github.com/buildlyio/.github/blob/main/Buildly%20Banner%20Trees.png?raw=true]
 <h1 align="center">
   Buildly Open Source Core and Components
   <br>
