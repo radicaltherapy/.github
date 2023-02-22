@@ -7,12 +7,9 @@
   <a href="https://github.com/buidlyio"><img src="https://github.com/buildlyio/.github/blob/main/buildly-logo.png?raw=true" alt="Buildly Logo"></a>
 </h1>
 
-<h4 align="center">A components based Microservice architecture and Gateway + for backend developers who like frontend developers.</h4>
+<h4 align="center">A component based microservice architecture and Gateway+ for backend developers who like frontend developers.</h4>
 
 <p align="center">
-    <a href="https://github.com/buildlyio/buildly-core/issues">
-    <img src="https://img.shields.io/github/issues-raw/buildlyio/buildly-core.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub issues">
     <a href="https://github.com/buildlyio/buildly-core/issues">
     <img src="https://img.shields.io/github/issues-raw/buildlyio/buildly-core.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub issues">
