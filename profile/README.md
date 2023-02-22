@@ -11,13 +11,13 @@
 
 <p align="center">
     <a href="https://github.com/buildlyio/buildly-core/issues">
-    <img src="https://img.shields.io/github/issues-raw/buildlyio/buildly-core-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <img src="https://img.shields.io/github/issues-raw/buildlyio/buildly-core.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub issues">
     <a href="https://github.com/buildlyio/buildly-core/issues">
-    <img src="https://img.shields.io/github/issues-raw/buildlyio/buildly-core-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <img src="https://img.shields.io/github/issues-raw/buildlyio/buildly-core.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub issues">
     <a href="https://github.com/buildlyio/buildly-core/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/buildlyio/buildly-core-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <img src="https://img.shields.io/github/issues-pr-raw/buildlyio/buildly-core.svg?style=flat-square&logo=github&logoColor=white"
          alt="GitHub pull requests">
 </p>
       
