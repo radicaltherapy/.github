@@ -10,8 +10,8 @@
 <h4 align="center">A components based Microservice architecture and Gateway + for backend developers who like frontend developers.</h4>
 
 <p align="center">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/commits/master">
-    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
+    <a href="https://github.com/buildlyio/buildly-core">
+    <img src="https://github.com/buildlyio/buildly-core/commits/master/badge.svg"
          alt="GitHub last commit">
     <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
     <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
