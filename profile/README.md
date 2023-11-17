@@ -1,11 +1,11 @@
 
 <h1 align="center">
-  Buildly Open Source Core and Components
+  Radical Therapy for Software and Product Teams
   <br>
-  <a href="https://github.com/buidlyio"><img src="https://github.com/buildlyio/.github/blob/main/buildly-logo.png?raw=true" alt="Buildly Logo"></a>
+  <a href="https://radicaltherapy.dev"><img src="https://github.com/buildlyio/.github/blob/main/buildly-logo.png?raw=true" alt="Buildly Logo"></a>
 </h1>
 
-<h4 align="center">A component based microservice architecture and Gateway+ for backend developers who like frontend developers.</h4>
+<h4 align="center">An open source library of process tools, suggestions and more for creating a more open and transparent team, organization and product.</h4>
 
 <p align="center">
     <a href="https://github.com/buildlyio/buildly-core/issues">
