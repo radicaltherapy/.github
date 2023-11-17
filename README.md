@@ -2,12 +2,12 @@
 
 <div style="background-image: url('https://github.com/buildlyio/.github/blob/main/Buildly%20Banner%20Trees.png?raw=true'); max-height: 90%;"> 
 <h1 align="center">
-  Buildly Open Source Core and Components
+  Radical Therapy for Software and Prodcut Teams
   <br>
-  <a href="https://github.com/buidlyio"><img src="https://github.com/buildlyio/.github/blob/main/buildly-logo.png?raw=true" alt="Buildly Logo"></a>
+  <a href="https://www.radicaltherapy.dev"><img src="https://github.com/buildlyio/.github/blob/main/buildly-logo.png?raw=true" alt="Buildly Logo"></a>
 </h1>
 
-<h4 align="center">A components based Microservice architecture and Gateway + for backend developers who like frontend developers.</h4>
+<h4 align="center">Don't buy it build it, and then get to work doing it again.</h4>
 
 <p align="center">
     <a href="https://github.com/ArmynC/ArminC-AutoExec/commits/master">
