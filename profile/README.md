@@ -2,7 +2,7 @@
 <h1 align="center">
   Radical Therapy for Software and Product Teams
   <br>
-  <a href="https://radicaltherapy.dev">  <img src="https://github.com/radicaltherapy/.github/assets/449810/82929207-ad8e-4a5a-9f42-30a852f18792"></a>
+  <a href="https://radicaltherapy.dev">  <img src="https://github.com/radicaltherapy/.github/assets/449810/82929207-ad8e-4a5a-9f42-30a852f18792" width="500"></a>
 </h1>
 
 
