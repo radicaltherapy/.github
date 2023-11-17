@@ -2,7 +2,8 @@
 <h1 align="center">
   Radical Therapy for Software and Product Teams
   <br>
-  <a href="https://radicaltherapy.dev"><img src="https://github.com/buildlyio/.github/blob/main/buildly-logo.png?raw=true" alt="Buildly Logo"></a>
+  <a href="https://radicaltherapy.dev">![11 (1)](https://github.com/radicaltherapy/.github/assets/449810/19ad0495-e7eb-4322-a49e-b870ff053f74)
+</a>
 </h1>
 
 <h4 align="center">An open source library of process tools, suggestions and more for creating a more open and transparent team, organization and product.</h4>
